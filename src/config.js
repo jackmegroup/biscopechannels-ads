@@ -21,6 +21,12 @@ export const channelList = {
     id: 4,
     name: "Biscope Weekends Cinema",
     url: "https://t.me/+RiQmswdbObwwNjU1",
-    channelId: "+RiQmswdbObwwNjU1",
+    channelId: "-1001955223685",
+  },
+  5: {
+    id: 5,
+    name: "MRTV4 Biscope",
+    url: "https://t.me/mrtv4biscope",
+    channelId: "@mrtv4biscope",
   },
 };
