@@ -10,7 +10,6 @@ export default function CalculateForm() {
     const response = await fetch(
       `https://api.telegram.org/bot${process.env.REACT_APP_BOT_TOKEN}/getChatMembersCount?chat_id=${channelId}`
     ).then((response) => response.json());
-
     setSubscribers(response.result);
     setPrice(response.result * 2.5);
     setChannelInfo(channel);

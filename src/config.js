@@ -29,4 +29,58 @@ export const channelList = {
     url: "https://t.me/mrtv4biscope",
     channelId: "@mrtv4biscope",
   },
+  6: {
+    id: 6,
+    name: "Mahar Series Biscope",
+    url: "https://t.me/maharseriebiscope",
+    channelId: "@maharseriebiscope",
+  },
+  7: {
+    id: 7,
+    name: "မိတင်စိန်",
+    url: "https://t.me/biscope_cinema",
+    channelId: "@biscope_cinema",
+  },
+  8: {
+    id: 8,
+    name: "Hey Play TV",
+    url: "https://t.me/biscopepremium",
+    channelId: "@biscopepremium",
+  },
+  9: {
+    id: 9,
+    name: "ကဝေ",
+    url: "https://t.me/biscopemm_cinema",
+    channelId: "@biscopemm_cinema",
+  },
+  10: {
+    id: 10,
+    name: "M entertainment",
+    url: "https://t.me/biscopemyanmar",
+    channelId: "@biscopemyanmar",
+  },
+  11: {
+    id: 11,
+    name: "Premium Biscope",
+    url: "https://t.me/premiumbiscope",
+    channelId: "@premiumbiscope",
+  },
+  12: {
+    id: 12,
+    name: "Channel K",
+    url: "https://t.me/mmbiscopechannelk",
+    channelId: "@mmbiscopechannelk",
+  },
+  13: {
+    id: 13,
+    name: "Biscope Yote Shin",
+    url: "https://t.me/biscopeyoteshin",
+    channelId: "@biscopeyoteshin",
+  },
+  14: {
+    id: 14,
+    name: "Biscope TV",
+    url: "https://t.me/mmbiscopemovies",
+    channelId: "@mmbiscopemovies",
+  },
 };
